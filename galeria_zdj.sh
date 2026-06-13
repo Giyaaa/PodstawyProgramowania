@@ -51,8 +51,8 @@ for f in "$FOLDER"/*.jpg; do
 kloc
 done
 
-cat >> "$INDEKS" << 'st00pka'
+cat >> "$INDEKS" << 'st0pka'
 <div class="clearfix"></div>
 </body>
 </html>
-st00pka
+st0pka
